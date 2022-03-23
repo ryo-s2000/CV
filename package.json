@@ -1,0 +1,8 @@
+{
+  "name": "CV",
+  "repository": "https://github.com/ryo-s2000/CV.git",
+  "author": "Ryo Suzuki",
+  "dependencies": {
+    "md-to-pdf": "^5.1.0"
+  }
+}
