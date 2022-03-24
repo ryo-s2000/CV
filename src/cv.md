@@ -1,5 +1,8 @@
-# Ryo Suzuki
+<div style="text-align:center; font-size:20px;">
+Ryo Suzuki
+
 https://www.linkedin.com/in/ryo-suzuki-598040175/
+</div>
 
 # Professional Summary
 TODO
