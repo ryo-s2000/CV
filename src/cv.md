@@ -13,12 +13,22 @@ For example, I popularized testing, taught many things need to know to our membe
 
 # Work Experience
 ## Full-stack Developer
-###  Freelance
-Feb 2017–June 2019
+### EISYS, Inc.
+Feb 2020 - Mar 2022
+- TODO
+
+## Full-stack Developer
+### Freelance
+Feb 2019 - Jan 2020
+- TODO
+
+## Full-stack Developer
+### fullout, Inc.
+Mar 2018 - Feb 2019
 - TODO
 
 # Education
-University of Todo, Vancouver, BC
+Lakehead University, Vancouver, BC
 
 # Technical Skills
 Experience in TODO, and Software Engineering.
