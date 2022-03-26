@@ -28,7 +28,11 @@ Mar 2018 - Feb 2019
 - TODO
 
 # Education
-Lakehead University, Vancouver, BC
+B.Sc., Computer Science
+
+Lakehead University, Vancouver, BC, Canada
+
+Sep 2023 - Apr 2027
 
 # Technical Skills
 Experience in TODO, and Software Engineering.
