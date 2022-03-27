@@ -39,7 +39,7 @@ Experience in Software Engineering.
 
 Tools:
 - Data Science
-  - Python, NumPy, Pandas, Jupyter Notebook, PyTorch, BERT
+  - Python, NumPy, Pandas, Matplotlib, SciKit-Learn, Jupyter Notebook, PyTorch, BERT
 - Backend
   - PHP, Laravel, Ruby, Ruby on Rails, SQL, MySQL
 - Frontend
