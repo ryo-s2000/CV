@@ -30,7 +30,7 @@ Involved in all phases of the software development life-cycle.
   - I involved in all phases of the software development life-cycle from idea to deploy
   - I not only created it, but also communicated with users so that they could use it willingly. As a result, I was able to release excellent software that automates tedious tasks in a short period of time.
 
-## Junior Engineer
+## Junior Software Engineer
 ### fullout, Inc.
 Mar 2018 - Feb 2019
 
