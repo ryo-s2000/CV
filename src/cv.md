@@ -15,19 +15,19 @@ For example, I popularized testing, taught many things need to know to our membe
 ### EISYS, Inc.
 Feb 2020 - Mar 2022
 
-- Create web application called zowa(https://zowa.app/)
+- Created a web application called zowa(https://zowa.app/)
   - Mainly responsible for creating CMS and Admin
-  - Create CI/CD pipeline using CodePipeline, CodeBuild, CodeDeploy
-  - Create frontend using Vue.js
+  - Created a CI/CD pipeline using CodePipeline, CodeBuild, CodeDeploy
+  - Created a frontend using Vue.js
 
 Experience of machine learning
-- Create review evaluation system and MLOps Pipeline using Python, BERT and SageMaker
+- Create a review evaluation system and MLOps Pipeline using Python, BERT and SageMaker
   - I organized the requirements through interviews with the review judging team
   - I did an analysis of review data to gain insight
   - Created an algorithm to recognize whether or not a review can be published
   - Created a MLOps pipeline so that the evaluation model can be updated simply by pushing to github.
-- Created recommendation algorithms using Python
-  - Created recommendation algorithms and tested which model was best
+- Created a recommendation algorithms using Python
+  - Created a recommendation algorithms and tested which model was best
   - Made materials to explain to managers
 
 Team Lead of backend API team
@@ -43,11 +43,11 @@ Team Lead of backend API team
 Feb 2019 - Jan 2020
 
 Involved in all phases of the software development life-cycle.
-- Create and maintain web site
+- Created and maintained web site
   - Launch website using AWS
-- Create API for delivery management system using Python
+- Created an API for delivery management system using Python
   - Mainly responsible for coding and testing
-- Create in-house business improvement application using Laravel
+- Created a in-house business improvement application using Laravel
   - I involved in all phases of the software development life-cycle from idea to deploy
   - I not only created it, but also communicated with users so that they could use it willingly. As a result, I was able to release excellent software that automates tedious tasks in a short period of time.
 
