@@ -5,19 +5,19 @@ https://www.linkedin.com/in/ryo-suzuki-598040175/
 </div>
 
 # Professional Summary
-Professional software developer with 4+ years of experience and extensive knowledge of the software development life-cycle.
+Professional software engineer with 4+ years of experience and extensive knowledge of the software development life-cycle.
 
 In my last position, as a senior engineer in backend team, I did everything I could to improve the productivity of my team.
 
 For example, I popularized testing, taught many things need to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
 
 # Work Experience
-## Full-stack Developer
+## Senior Software Engineer
 ### EISYS, Inc.
 Feb 2020 - Mar 2022
 - TODO
 
-## Full-stack Developer
+## Full-stack Engineer
 ### Freelance
 Feb 2019 - Jan 2020
 
@@ -30,7 +30,7 @@ Involved in all phases of the software development life-cycle.
   - I involved in all phases of the software development life-cycle from idea to deploy
   - I not only created it, but also communicated with users so that they could use it willingly. As a result, I was able to release excellent software that automates tedious tasks in a short period of time.
 
-## Junior Developer
+## Junior Engineer
 ### fullout, Inc.
 Mar 2018 - Feb 2019
 
