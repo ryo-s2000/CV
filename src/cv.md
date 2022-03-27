@@ -20,24 +20,34 @@ Feb 2020 - Mar 2022
 ## Full-stack Developer
 ### Freelance
 Feb 2019 - Jan 2020
-- TODO
 
-## Full-stack Developer
+Involved in all phases of the software development life-cycle.
+- Create and maintain web site
+  - launch website to use AWS
+- Create API for delivery management system(Python)
+  - mainly responsible for coding and testing
+- Create in-house business improvement application(Laravel)
+  - I involved in all phases of the software development life-cycle from idea to deploy
+  - I not only created it, but also communicated with users so that they could use it willingly. As a result, I was able to release excellent software that automates tedious tasks in a short period of time.
+
+## Junior Developer
 ### fullout, Inc.
 Mar 2018 - Feb 2019
-- TODO
+
+Mainly responsible for maintenance.
+- Maintain and update web scraping system for in-house use(Ruby on Rails).
+- Maintain kubernetes cluster
+- Maintain drone(CI/CD tool)
+- Replacement from WordPress to Ruby on Rails.
 
 # Education
 B.Sc., Computer Science
 
-Lakehead University, Vancouver, BC, Canada
+Lakehead University, Thunder Bay, ON, Canada
 
 Sep 2023 - Apr 2027
 
 # Technical Skills
-Experience in Software Engineering.
-
-Tools:
 - Data Science
   - Python, NumPy, Pandas, Matplotlib, SciKit-Learn, Jupyter Notebook, PyTorch, BERT
 - Backend
@@ -54,6 +64,3 @@ Tools:
     - Github, Bitbucket
 - Communication
   - JIRA, Slack, Redmine, Notion
-
-# Projects
-## TODO
