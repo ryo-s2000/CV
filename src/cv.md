@@ -35,11 +35,25 @@ Lakehead University, Vancouver, BC, Canada
 Sep 2023 - Apr 2027
 
 # Technical Skills
-Experience in TODO, and Software Engineering.
+Experience in Software Engineering.
+
 Tools:
-- Data Science: R, Python with NumPy and Pandas, Spark (prior experience)
-- Programming Technologies: SQL, MATLAB, Ruby, Ruby on Rails, Java, JavaScript,
-HTML/CSS
+- Data Science
+  - Python, NumPy, Pandas, Jupyter Notebook, PyTorch, BERT
+- Backend
+  - PHP, Laravel, Ruby, Ruby on Rails, SQL, MySQL
+- Frontend
+  - JavaScript, Vue.js, HTML5, CSS3, Sass
+- Infrastructure
+  - AWS
+    - EC2, ECS, ECR, S3, Aurora, Lambda, SageMaker, CloudWatch, API Gateway, CloudFront, CodePipeline, CodeBuild, CodeDeploy
+  - Container
+    - Docker, Docker Compose, kubernetes
+- Version Control
+  - Git
+    - Github, Bitbucket
+- Communication
+  - JIRA, Slack, Redmine, Notion
 
 # Projects
 ## TODO
