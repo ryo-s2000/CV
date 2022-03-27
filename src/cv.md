@@ -8,7 +8,6 @@ https://www.linkedin.com/in/ryo-suzuki-598040175/
 Professional software engineer with 4+ years of experience and extensive knowledge of the software development life-cycle.
 
 In my last position, as a senior engineer in backend team, I did everything I could to improve the productivity of my team.
-
 For example, I popularized testing, taught many things need to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
 
 # Work Experience
@@ -16,24 +15,28 @@ For example, I popularized testing, taught many things need to know to our membe
 ### EISYS, Inc.
 Feb 2020 - Mar 2022
 
-algorism
 - Create web application called zowa(https://zowa.app/)
-  - Mainly responsible for creating CMS
+  - Mainly responsible for creating CMS and Admin
   - Create CI/CD pipeline using CodePipeline, CodeBuild, CodeDeploy
   - Create frontend using Vue.js
+
+Experience of machine learning
 - Create review evaluation system and MLOps Pipeline using Python, BERT and SageMaker
   - I organized the requirements through interviews with the review judging team
   - I did an analysis of review data to gain insight
   - Created an algorithm to recognize whether or not a review can be published
   - Created a MLOps pipeline so that the evaluation model can be updated simply by pushing to github.
-- Create recommendation algorithm using Python
+- Created recommendation algorithms using Python
+  - Created recommendation algorithms and tested which model was best
+  - Made materials to explain to managers
 
-Team Lead
-- Create SmartPhone app
-  - Team lead
-  - test
-  - cicd
-  - admin componets
+Team Lead of backend API team
+- Created a mobile application called comipo(https://apps.apple.com/jp/app/comipo/id1591548181)
+  - Communicated with team members to achieve goals
+  - Designed distributed system using kafka
+  - Designed database Schema
+  - Created a admin page using Vue.js with Highly reusable components
+  - Performance Tuning using New Relic
 
 ## Full-stack Engineer
 ### Freelance
