@@ -8,10 +8,27 @@ https://github.com/ryo-s2000
 # Professional Summary
 Professional software engineer with 4+ years of experience and extensive knowledge of the software development life-cycle.
 
-In my last position, as a senior engineer in backend team, I did everything I could to improve the productivity of my team.
-For example, I popularized testing, taught many things need to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
+In my last position, as a senior engineer in a backend team, I did everything I could to improve the productivity of my team.
+For example, I popularized testing, taught many things needed to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
 
 # Work Experience
+### Suzuki kennsetu, Inc.
+## Software Engineer　& Corporate IT(part-time)
+Apr 2022 - Present
+
+Solving Problems in legacy industry with IT.
+- Adopt, Buy, Create approach
+  - Understand client requirements in depth and choose the fastest and most efficient way to solve the problem
+    - I thought the most earn problem was communication so I introduced Google Workspace
+    - I was not only introduced it, I instilled it in the organization
+- System integration
+  - Collecting and integrating dispersed data to improve workflow efficiency
+    - The information that almost all employees check daily was created in Excel and was not scalable
+    - So I re-stored it in a database and made it easily manipulated from a web application interface using Laravel(https://github.com/ryo-s2000/c-ledger)
+- Excellent remote communication skill
+  - I am doing this job full remote from Canada to Japan
+  - Except for a weekly video chat, we communicate via chat
+
 ## Senior Software Engineer
 ### EISYS, Inc.
 Feb 2020 - Mar 2022
@@ -44,14 +61,14 @@ Team Lead of backend API team
 Feb 2019 - Jan 2020
 
 Involved in all phases of the software development life-cycle.
-- Created and maintained web site
+- Created and maintained website
   - Launch website using AWS
 - Created an API for delivery management system using Python
   - Mainly responsible for coding and testing
 - Created a in-house business improvement application using Laravel(https://github.com/ryo-s2000/dailyreport)
   - I involved in all phases of the software development life-cycle from idea to deploy
   - I not only created it, but also communicated with users so that they could use it willingly. As a result, I was able to release excellent software that automates tedious tasks in a short period of time.
-  - create format, static code analysis, test pipeline. Run it on Github Actions
+  - create format, static code analysis, test pipeline. Run it on GitHub Actions
 
 ## Junior Software Engineer
 ### fullout, Inc.
@@ -62,13 +79,6 @@ Mainly responsible for maintenance.
 - Maintain kubernetes cluster
 - Maintain drone(CI/CD tool)
 - Replacement from WordPress to Ruby on Rails.
-
-# Education
-B.Sc., Computer Science
-
-Lakehead University, Thunder Bay, ON, Canada
-
-Sep 2023 - Apr 2027
 
 # Technical Skills
 - Data Science
@@ -88,4 +98,4 @@ Sep 2023 - Apr 2027
   - Git
     - Github, Bitbucket
 - Communication
-  - JIRA, Slack, Redmine, Notion
+  - JIRA, Slack, Redmine, Notion, Google workspace
