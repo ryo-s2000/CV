@@ -1,9 +1,8 @@
 <div style="text-align:center; font-size:20px;">
 Ryo Suzuki
 
-https://www.linkedin.com/in/ryo-suzuki-598040175/
-https://github.com/ryo-s2000
 ryo.s12330@gmail.com
+https://github.com/ryo-s2000
 </div>
 
 # Professional Summary
