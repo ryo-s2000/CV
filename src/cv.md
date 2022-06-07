@@ -52,7 +52,7 @@ Experience of machine learning
 Team Lead of backend API team
 - Created a mobile application called comipo(https://apps.apple.com/jp/app/comipo/id1591548181)
   - Communicated with team members to achieve goals
-  - Designed distributed system using kafka
+  - Designed distributed system using Kafka
   - Designed database Schema
   - Created a admin page using Vue.js with Highly reusable components
   - Performance Tuning using New Relic
@@ -95,6 +95,10 @@ Mainly responsible for maintenance.
     - Docker, Docker Compose, kubernetes
   - CI/CD
     - CodePipeline, Github Actions
+  - Message Queue
+    - Kafka
+  - NoSQL
+    - Cassandra
 - Version Control
   - Git
     - Github, Bitbucket
