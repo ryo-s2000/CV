@@ -4,7 +4,7 @@
 その結果、高品質のアプリケーションを早いスパンでリリースする事ができました。
 
 ### 鈴木建設株式会社
-## Software Engineer　& Corporate IT(part-time)
+## Software Engineer & Corporate IT(part-time)
 2022 4月 - 今
 
 レガシー業界のコミュニケーションの課題をITを使って解決する

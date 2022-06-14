@@ -14,7 +14,7 @@ For example, I popularized testing, taught many things needed to know to our mem
 
 # Work Experience
 ### Suzuki kennsetu, Inc.
-## Software Engineer　& Corporate IT(part-time)
+## Software Engineer & Corporate IT(part-time)
 Apr 2022 - Present
 
 Solving Problems in legacy industry with IT.
