@@ -13,8 +13,8 @@ In my last position, as a senior engineer in a backend team, I did everything I 
 For example, I popularized testing, taught many things needed to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
 
 # Work Experience
-### Suzuki kennsetu, Inc.
 ## Software Engineer & Corporate IT(part-time)
+### Suzuki kennsetu, Inc.
 Apr 2022 - Present
 
 Solving Problems in legacy industry with IT.
