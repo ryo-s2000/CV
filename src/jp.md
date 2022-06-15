@@ -60,7 +60,7 @@ backend APIチームのチームリード
 
 ## Junior Software Engineer
 ### 株式会社fullout
-2018 4月 - 2019 4月
+2018 4月 - 2019 2月
 
 - Ruby on Railsを用いたWEBスクレイピングシステムのメンテナンス
 - kubernetes clusterのメンテナンス
