@@ -13,7 +13,7 @@ In my last position, as a senior engineer in a backend team, I did everything I 
 For example, I popularized testing, taught many things needed to know to our members, and built a CI/CD pipeline so that we could release high-quality applications quickly.
 
 # Work Experience
-## Software Engineer & Corporate IT(part-time)
+## Project manager & Software Engineer & Corporate IT(part-time)
 ### Suzuki kennsetu, Inc.
 Apr 2022 - Present
 
@@ -34,6 +34,7 @@ Solving Problems in legacy industry with IT.
 ### EISYS, Inc.
 Feb 2020 - Mar 2022
 
+Create a toC mobile applicatio
 - Created a web application called zowa(https://zowa.app, https://apps.apple.com/jp/app/zowa-asmr%E3%82%92%E5%BA%83%E5%91%8A%E3%81%AA%E3%81%97%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%82%E3%81%86/id1437486224)
   - Mainly responsible for creating CMS and Admin
   - Created a CI/CD pipeline using CodePipeline, CodeBuild, CodeDeploy
