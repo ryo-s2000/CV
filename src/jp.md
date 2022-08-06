@@ -3,7 +3,7 @@
 例を上げると、テストの普及、OJTやオンボーディング、メンバーへの技術共有、CI/CDパイプラインの作成等です、
 その結果、高品質のアプリケーションを早いスパンでリリースする事ができました。
 
-## Project manager & Software Engineer & Corporate IT(part-time)
+## Project manager
 ### 鈴木建設株式会社
 2022 4月 - 今
 
